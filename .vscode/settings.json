@@ -1,0 +1,7 @@
+{
+    "scm.alwaysShowActions": true,
+    "scm.alwaysShowRepositories": true,
+    "C_Cpp.autocomplete": "disabled",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "github.copilot.editor.enableAutoCompletions": false
+}
