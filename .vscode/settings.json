@@ -3,5 +3,11 @@
     "scm.alwaysShowRepositories": true,
     "C_Cpp.autocomplete": "disabled",
     "C_Cpp.autocompleteAddParentheses": true,
-    "github.copilot.editor.enableAutoCompletions": false
+    "github.copilot.editor.enableAutoCompletions": false,
+    "files.associations": {
+        "lv_examples.h": "c",
+        "lvgl.h": "c",
+        "lv_init.h": "c",
+        "lv_conf_internal.h": "c"
+    }
 }
